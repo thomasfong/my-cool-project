@@ -1,0 +1,9 @@
+{"name": "my-cool-project",
+"version": "1.0.0",
+"description": "WDD330 final project",
+"main": "index.html",
+"scripts": {
+    "test": "echo | 'Error: no test specified|' && exit 1"
+},
+"author": "Fong King Leong <thomasfong1020@gmail.com>"
+}
